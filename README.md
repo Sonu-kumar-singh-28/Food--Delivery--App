@@ -13,7 +13,7 @@ MVVM Architecture
 
 Repository Pattern
 
-Clean Architecture (UI → ViewModel → Repository → Data Sources)
+Clean Architecture (UI → ViewModel →  Repository →  Data Sources)
 
 🔧 Dependency Injection
 
