@@ -21,7 +21,7 @@ Dagger-Hilt
 
 🗄 Local Storage
 
-Room Database
+Room Database..
 
 Offline-first design
 
