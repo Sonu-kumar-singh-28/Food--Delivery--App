@@ -62,7 +62,7 @@ Persistent cart using Room
 
 Auto-update totals
 
-📦 Order Placement
+📦 Order Placement.
 
 Orders stored on Firebase
 
