@@ -58,8 +58,7 @@ Auto-sync when online
 
 Add / remove items
 
-Persistent cart using Room
-
+Persistent cart using Room.
 Auto-update totals
 
 📦 Order Placement.
